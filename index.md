@@ -33,4 +33,4 @@ For users in the European Economic Area (EEA), data processing by Google AdMob i
 ## Contact
 
 If you have any questions about this Privacy Policy, please contact:
-**levkosyk@gmail.com**
+**kosyklev@gmail.com**
